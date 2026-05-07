@@ -1,6 +1,10 @@
 # DiscoveryTreeSkill
 
-Agent skill for discovery tree task management
+This is a coding agent skill for Discovery Tree task management.
+
+Discovery Trees are a lightweight way to visualize work and track it. Learn more here:
+- [Product Mapping and Discovery Trees](https://www.fastagile.io/method/product-mapping-and-discovery-trees) from FAST agile
+- [Working with Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/) by Steve Kuo
 
 ## STARTER_CHARACTER
 
