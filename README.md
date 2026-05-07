@@ -1,4 +1,4 @@
-# DiscoveryTreeSkill
+# Discovery Tree Skill
 
 This is a coding agent skill for Discovery Tree task management.
 
