@@ -9,7 +9,7 @@ metadata:
 
 # Discovery Tree
 
-STARTER_CHARACTER = 🌳
+STARTER_CHARACTER = 🌲
 
 ## Description
 
