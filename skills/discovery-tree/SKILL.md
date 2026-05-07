@@ -1,3 +1,11 @@
+---
+name: discovery-tree
+description: Visualizes tasks as a discovery tree using Mermaid diagrams. Use when planning or tracking multi-step work with parent and child task relationships.
+metadata:
+  author: Jon Reid
+  version: "1.0"
+---
+
 # Discovery Tree
 
 STARTER_CHARACTER = 🌳
