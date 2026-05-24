@@ -66,6 +66,8 @@ Trigger phrases (examples):
 - "Add a note to the discovery tree"
 - "Add a side note to the discovery tree"
 
+If the trigger phrase does not include the note text (e.g. the user just says "add a side note" with no content), prompt the user: "What should the side note say?" Do not invent content or use a placeholder. Wait for the user's response before adding the node.
+
 To add a side note:
 - Declare a node with a unique id, e.g. `note-1["Check API rate limits"]`
 - Apply the `notes` class: `class note-1 notes`
