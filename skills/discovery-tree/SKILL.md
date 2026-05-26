@@ -22,6 +22,7 @@ Visualize tasks as a Discovery Tree, where subtasks are child nodes.
 Open `discovery-tree.md`.
 
 If it doesn't exist, create it:
+- Ask the user: "What is the project title?"
 - Ask the user: "What is the parent task?"
 - Use the template in `references/template-discovery-tree.md`, replacing `parent-node` and `Parent Task` with the parent task
 
