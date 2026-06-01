@@ -4,6 +4,7 @@ _01 Jun 2026_
 
 - Adds project title at top. _Thanks to: Gary Ash_
 - Side note support: add/list/edit/remove. _Thanks to: Gary Ash_
+- Add demo image to README.
 
 Version 1.0
 -----------
