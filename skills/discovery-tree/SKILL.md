@@ -4,7 +4,7 @@ description: Visualizes tasks as a Discovery Tree using Mermaid diagrams. Use wh
 license: MIT
 metadata:
   author: Jon Reid
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Discovery Tree
