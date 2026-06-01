@@ -13,6 +13,10 @@ This skill represents the tree as a Mermaid diagram. I decided to this diagram i
 - [Product Mapping and Discovery Trees](https://www.fastagile.io/method/product-mapping-and-discovery-trees) from FAST agile
 - [Working with Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/) by Steve Kuo
 
+Here's a quick demo. Observe how simple it is to understand. Also note that we don’t need to do a complete breakdown of all subtasks. “It is in the doing of the work that we discover the work that we must do.” (Woody Zuill)
+
+![Demo of "Add a Task" in To-Do App project](demo.webp)
+
 ## STARTER_CHARACTER
 
 This skill defines a `STARTER_CHARACTER = [emoji]` at the top. This is a visual indicator that your AI tool has loaded the skill and is following its instructions.
