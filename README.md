@@ -8,14 +8,41 @@ Originally created as physical sticky notes on a whiteboard, they also work well
 
 This skill represents the tree as a Mermaid diagram. I decided to this diagram in a Markdown file. I then open the file in [Typora](https://typora.io), a Markdown editor that also renders Mermaid. You may have a different tool to render Mermaid diagrams locally, such as a VSCode plugin or JetBrains plugin.
 
+## Example
+
+Here's an example of a Discovery Tree. Observe how simple it is to understand.
+
+Also note that we don’t need to do a complete breakdown of subtasks we haven’t started. “It is in the doing of the work that we discover the work that we must do.” (Woody Zuill)
+
+### Rendered in Chat
+
+```
+  Legend: 🟡 To do  🔶 In progress  ✅ Completed  🔴 Blocked  🟣 Punt  🔵 Notes
+
+  To-Do App
+  └── Add a Task
+      ├── ✅ Task input UI
+      │   ├── ✅ Type task name
+      │   ├── ✅ Tap add button
+      │   └── ✅ See field clear
+      ├── 🔶 Validate input
+      │   ├── ✅ Show error on empty
+      │   ├── 🔶 Disable add button
+      │   └── 🟡 Trim whitespace
+      ├── 🟡 Save task
+      └── 🟡 Show in list
+
+  🔵 API not ready yet — using local storage for now
+```
+
+### Rendered in Mermaid
+
+![Demo of "Add a Task" in To-Do App project](demo.webp)
+
 ## Learn More Here
 
 - [Product Mapping and Discovery Trees](https://www.fastagile.io/method/product-mapping-and-discovery-trees) from FAST agile
 - [Working with Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/) by Steve Kuo
-
-Here's a quick demo. Observe how simple it is to understand. Also note that we don’t need to do a complete breakdown of subtasks we haven’t started. “It is in the doing of the work that we discover the work that we must do.” (Woody Zuill)
-
-![Demo of "Add a Task" in To-Do App project](demo.webp)
 
 ## STARTER_CHARACTER
 

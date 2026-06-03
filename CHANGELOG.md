@@ -2,7 +2,7 @@ NEXT RELEASE
 ------------
 
 - Add step to display tree with ASCII drawing and emoji.
-- Improve legend by hiding lines.
+- Improve Mermaid legend by hiding lines.
 - Simplify text to save tokens.
 
 Version 1.1
