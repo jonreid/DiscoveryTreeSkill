@@ -1,7 +1,9 @@
 NEXT RELEASE
 ------------
 
-- Add step to display tree with ASCII drawing and emoji. 
+- Add step to display tree with ASCII drawing and emoji.
+- Improve legend by hiding lines.
+- Simplify text to save tokens.
 
 Version 1.1
 -----------
