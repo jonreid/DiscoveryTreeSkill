@@ -17,20 +17,21 @@ Also note that we don’t need to do a complete breakdown of subtasks we haven�
 ### Rendered in Chat
 
 ```
+  To-Do App
+
   Legend: 🟡 To do  🔶 In progress  ✅ Completed  🔴 Blocked  🟣 Punt  🔵 Notes
 
-  To-Do App
-  └── Add a Task
-      ├── ✅ Task input UI
-      │   ├── ✅ Type task name
-      │   ├── ✅ Tap add button
-      │   └── ✅ See field clear
-      ├── 🔶 Validate input
-      │   ├── ✅ Show error on empty
-      │   ├── 🔶 Disable add button
-      │   └── 🟡 Trim whitespace
-      ├── 🟡 Save task
-      └── 🟡 Show in list
+  Add a Task
+  ├── ✅ Task input UI
+  │   ├── ✅ Type task name
+  │   ├── ✅ Tap add button
+  │   └── ✅ See field clear
+  ├── 🔶 Validate input
+  │   ├── ✅ Show error on empty
+  │   ├── 🔶 Disable add button
+  │   └── 🟡 Trim whitespace
+  ├── 🟡 Save task
+  └── 🟡 Show in list
 
   🔵 API not ready yet — using local storage for now
 ```
