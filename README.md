@@ -37,7 +37,7 @@ Also note that we donâ€™t need to do a complete breakdown of subtasks we havenâ€
 
 ### Rendered in Mermaid
 
-![Demo of "Add a Task" in To-Do App project](demo.webp)
+![Example of "Add a Task" in To-Do App project](example.webp)
 
 ## Learn More Here
 
