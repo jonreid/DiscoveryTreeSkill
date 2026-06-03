@@ -32,15 +32,11 @@ Root `parent-task` node is never modified.
 
 ### Step 3: Display
 
-Tree is a Mermaid graph. Display to user as ASCII using box-drawing characters. Represent state using emoji:
+Tree is a Mermaid graph. Display to user as ASCII using box-drawing characters. Represent state using emoji. Show legend line above the tree:
 
-- Parent task: no emoji
-- Todo: 🟡
-- In Progress: 🔶
-- Completed: ✅
-- Blocked: 🔴
-- Punt: 🟣
-- Notes: 🔵
+`Legend: 🟡 To do  🔶 In progress  ✅ Completed  🔴 Blocked  🟣 Punt  🔵 Notes`
+
+Show parent task without emoji.
 
 ### Step 4: Review
 
