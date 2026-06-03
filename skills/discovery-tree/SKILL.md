@@ -30,25 +30,37 @@ If it doesn't exist, create it:
 
 Root `parent-task` node is never modified.
 
-### Step 3: Review
+### Step 3: Display
+
+Tree is a Mermaid graph. Display to user as ASCII using box-drawing characters. Represent state using emoji:
+
+- Parent task: no emoji
+- Todo: 🟡
+- In Progress: 🔶
+- Completed: ✅
+- Blocked: 🔴
+- Punt: 🟣
+- Notes: 🔵
+
+### Step 4: Review
 
 Ask user to review current tree. Any new stories to add?
 
-### Step 4: Find Next Task
+### Step 5: Find Next Task
 
 Find next `todo` story to work on. Ask user to confirm.
 
 Keep stories ordered left-to-right in diagram.
 
-### Step 5: Sync Names
+### Step 6: Sync Names
 
 Keep node names and user story labels in sync.
 
-### Step 6: Mark as In-Progress
+### Step 7: Mark as In-Progress
 
 Mark chosen story as `in-progress`. Change all parent nodes to `in-progress` as well, except root `parent-task`.
 
-### Step 7: Complete
+### Step 8: Complete
 
 When task is done:
 - Mark it as `complete`

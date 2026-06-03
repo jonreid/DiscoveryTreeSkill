@@ -1,3 +1,8 @@
+NEXT RELEASE
+------------
+
+- Add step to display tree with ASCII drawing and emoji. 
+
 Version 1.1
 -----------
 _01 Jun 2026_
