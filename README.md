@@ -6,11 +6,11 @@ Discovery Trees are a lightweight way to visualize work and track it, creating a
 
 Originally created as physical sticky notes on a whiteboard, they also work well on virtual whiteboards. But neither physical sticky notes nor virtual ones work well with coding agents.
 
-This skill represents the tree as a Mermaid diagram. I decided to this diagram in a Markdown file. I then open the file in [Typora](https://typora.io), a Markdown editor that also renders Mermaid. You may have a different tool to render Mermaid diagrams locally, such as a VSCode plugin or JetBrains plugin.
+This skill represents the tree as a Mermaid diagram. The diagram is embedded in a Markdown file for easy display in [Typora](https://typora.io), a Markdown editor that supports Mermaid. You may have a different tool to render Mermaid diagrams locally, such as a VSCode plugin or JetBrains plugin.
 
 ## Example
 
-Here's an example of a Discovery Tree. Observe how simple it is to understand.
+Here’s an example of a Discovery Tree. Observe how simple it is to understand.
 
 Also note that we don’t need to do a complete breakdown of subtasks we haven’t started. “It is in the doing of the work that we discover the work that we must do.” (Woody Zuill)
 
