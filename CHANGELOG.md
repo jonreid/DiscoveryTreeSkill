@@ -1,5 +1,7 @@
-NEXT RELEASE
+Version 1.2
 ------------
+
+*23 Jun 2026*
 
 - Add step to display tree with ASCII drawing and emoji.
 - Improve Mermaid legend by hiding lines.
